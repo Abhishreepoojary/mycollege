@@ -1,2 +1,2 @@
 # mycollege
-my college websot
+my college website
